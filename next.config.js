@@ -4,6 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: '/neriterm-landing',
+  assetPrefix: '/neriterm-landing/',
 }
 
 module.exports = nextConfig
